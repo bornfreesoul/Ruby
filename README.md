@@ -1,4 +1,5 @@
 Ruby
 ====
 
-1.) HelloMessage in Ruby - D2R1
+1.) Hello Message in Ruby - D2R1
+2.) Input Function in Ruby - D2R2
