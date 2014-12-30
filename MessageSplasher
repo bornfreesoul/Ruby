@@ -1,0 +1,3 @@
+print("Welcome to the message splasher app!");
+Message = gets;
+puts("Your message is: \n" + Message); 
