@@ -1,0 +1,2 @@
+print ("Hello Message! \n");
+puts ("Hi there!");
