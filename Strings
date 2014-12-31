@@ -1,0 +1,12 @@
+Words = <<HERE
+  This is first line.
+  This is second line.
+  This is third line."\n"
+HERE
+puts(Words)
+
+first,last = "Kapil,Sha".split(/,/)
+puts(first)
+print(last)
+
+print("\n",first + " " + last)
