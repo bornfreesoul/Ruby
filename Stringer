@@ -1,0 +1,3 @@
+letters = 'a'..'z'
+puts(letters);
+puts(letters==='z');
